@@ -1005,6 +1005,7 @@ public class CCPCountry implements Comparable<CCPCountry> {
         countries.add(new CCPCountry("ki", "686", "Kiribati", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("km", "269", "Comoros", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("kn", "1", "Saint Kitts and Nevis", DEFAULT_FLAG_RES));
+        countries.add(new CCPCountry("ko", "34", "Keepgo", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("kp", "850", "North Korea", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("kr", "82", "South Korea", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("kw", "965", "Kuwait", DEFAULT_FLAG_RES));

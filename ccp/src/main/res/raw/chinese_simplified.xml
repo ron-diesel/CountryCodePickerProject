@@ -578,6 +578,11 @@
             name_code="kn"
             phone_code="1" />
         <country
+            name="Keepgo"
+            english_name="Keepgo"
+            name_code="ko"
+            phone_code="34" />
+        <country
             name="韩国，朝鲜民主主义人民共和国氏共和国"
             english_name="North Korea"
             name_code="kp"
