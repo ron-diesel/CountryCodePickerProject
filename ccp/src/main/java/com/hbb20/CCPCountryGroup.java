@@ -31,6 +31,9 @@ public class CCPCountryGroup {
         //create group for +44
         addGroupForPhoneCode44();
 
+        //create group for +34
+        addGroupForPhoneCode34();
+
         //create group for +358
         addGroupForPhoneCode358();
     }
@@ -52,6 +55,15 @@ public class CCPCountryGroup {
         countryGroups.put(44, new CCPCountryGroup("gb", 4, nameCodeToAreaCodes)); // UK
     }
 
+
+    /**
+     * +34 group
+     */
+    private static void addGroupForPhoneCode34() {
+        HashMap<String, String> nameCodeToAreaCodes = new HashMap<>();
+        nameCodeToAreaCodes.put("go", ""); //Keepgo
+        countryGroups.put(34, new CCPCountryGroup("es", 0, nameCodeToAreaCodes)); // ES
+    }
 
     /**
      * NANP countries (+1)
