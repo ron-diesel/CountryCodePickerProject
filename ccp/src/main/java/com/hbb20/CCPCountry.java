@@ -556,6 +556,8 @@ public class CCPCountry implements Comparable<CCPCountry> {
                 return R.drawable.flag_gambia;
             case "gn": //guinea
                 return R.drawable.flag_guinea;
+            case "go": //keepgo
+                return R.drawable.flag_keepgo;
             case "gp": //guadeloupe
                 return R.drawable.flag_guadeloupe;
             case "gq": //equatorial guinea
@@ -973,6 +975,7 @@ public class CCPCountry implements Comparable<CCPCountry> {
         countries.add(new CCPCountry("gl", "299", "Greenland", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("gm", "220", "Gambia", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("gn", "224", "Guinea", DEFAULT_FLAG_RES));
+        countries.add(new CCPCountry("go", "34", "Keepgo", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("gp", "450", "Guadeloupe", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("gq", "240", "Equatorial Guinea", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("gr", "30", "Greece", DEFAULT_FLAG_RES));
@@ -1005,7 +1008,6 @@ public class CCPCountry implements Comparable<CCPCountry> {
         countries.add(new CCPCountry("ki", "686", "Kiribati", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("km", "269", "Comoros", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("kn", "1", "Saint Kitts and Nevis", DEFAULT_FLAG_RES));
-        countries.add(new CCPCountry("ko", "34", "Keepgo", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("kp", "850", "North Korea", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("kr", "82", "South Korea", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("kw", "965", "Kuwait", DEFAULT_FLAG_RES));
