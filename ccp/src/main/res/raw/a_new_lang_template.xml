@@ -419,6 +419,11 @@
             phone_code="224" />
         <country
             name="TODO: replace with  translated country name"
+            english_name="Keepgo"
+            name_code="go"
+            phone_code="34" />
+        <country
+            name="TODO: replace with  translated country name"
             english_name="Guadeloupe"
             name_code="gp"
             phone_code="590" />

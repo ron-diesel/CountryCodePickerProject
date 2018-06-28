@@ -418,6 +418,11 @@
             name_code="gn"
             phone_code="224" />
         <country
+            name="Keepgo"
+            english_name="Keepgo"
+            name_code="go"
+            phone_code="34" />
+        <country
             name="Guadeloupe"
             english_name="Guadeloupe"
             name_code="gp"
